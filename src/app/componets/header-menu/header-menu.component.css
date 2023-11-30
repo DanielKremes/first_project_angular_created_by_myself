@@ -1,0 +1,30 @@
+.container-header-menu {
+  display: flex;
+  justify-content: center;
+  background-color: #000;
+}
+
+.container-header-menu-nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: #000;
+
+}
+
+.container-header-menu-nav ul li {
+  list-style: none;
+  padding: 10px;
+  background-color: #000;
+  margin: 1rem auto 1rem;
+
+}
+
+.container-header-menu-nav ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  background-color: #000;
+
+}

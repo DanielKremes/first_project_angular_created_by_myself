@@ -1,0 +1,28 @@
+/* responsible */
+@media screen and (max-width:1024px) {
+  .container-main-page {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container-main-page h1 {
+    text-align: center;
+  }
+
+  .container-main-page p {
+    text-align: justify;
+  }
+
+  .container-main-page img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .container-main-page-content {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin: 1rem;
+  }
+}

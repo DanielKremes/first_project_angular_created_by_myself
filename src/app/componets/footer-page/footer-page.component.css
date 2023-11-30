@@ -1,0 +1,19 @@
+.container-footer-page {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  /* border: 1px saddlebrown solid; */
+  background-color: #000;
+  margin-bottom: 0px;
+}
+
+.container-footer-page article {
+  background-color: #000;
+  margin: 1rem 0px 1rem;
+}
+
+.container-footer-page article h1 {
+  background-color: #000;
+  text-transform: uppercase;
+  color: white;
+}
